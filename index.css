@@ -1,0 +1,122 @@
+*{
+  margin: 0;
+}
+.primeiraImg{
+  background-image: url(./londrex.jpg);
+  height: 615px;
+  background-size: cover;
+  position: relative;
+  background-attachment:fixed;
+}
+
+header h1{
+  position: absolute;
+  padding: 10px;
+  width:  385px;
+  top: 300px;
+  left: 450px;
+  letter-spacing: 5px;
+  background: rgb(89, 89, 89);
+  color: white;
+}
+
+.primeiraDiv {
+  margin-top: -0px;
+  padding: 70px;
+  background: #f4f4f4;
+  line-height: 25px;
+  font-size: 1.15rem;
+  opacity: .7;
+}
+
+.sectionOne div h2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  opacity: .9;
+}
+.segundaImg{
+  background: rgba(0, 0, 0, 0.5) url(
+    ./desfocada.jpg
+  );
+  background-blend-mode: darken;
+  height: 410px;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+.sectionOne h1{
+  position: absolute;
+  padding: 10px;
+  width:  290px;
+  top: 150px;
+  left: 450px;
+  letter-spacing: 5px;
+  color: white;
+}
+.segundaDiv {
+  margin-top: -5px;
+  padding: 70px;
+  background:  rgb(40, 46, 52);
+  line-height: 25px;
+  font-size: 1.15rem;
+  color: white;
+}
+.terceiraImg{
+  background: rgba(0, 0, 0, 0.5) url(
+    ./miami.jpg
+  );
+  background-blend-mode: darken;
+  height: 410px;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+.sectionTwo div h2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  color: white;
+  opacity: .8;
+}
+.sectionTwo h1{
+  position: absolute;
+  padding: 10px;
+  width:  390px;
+  top: 150px;
+  left: 450px;
+  letter-spacing: 5px;
+  color: white;
+}
+.terceiraDiv {
+  margin-top: -5px;
+  padding: 70px;
+  background:  rgb(40, 46, 52);
+  line-height: 25px;
+  font-size: 1.15rem;
+  color: white;
+}
+footer div h2 {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+  color: white;
+  opacity: .8;
+}
+.quartaImg{
+  background-image: url(./londrex.jpg);
+  height: 610px;
+  background-size: cover;
+  position: relative;
+  background-attachment: fixed;
+}
+footer h1{
+  position: absolute;
+  padding: 10px;
+  width:  360px;
+  top: 250px;
+  left: 450px;
+  letter-spacing: 5px;
+  background: rgb(89, 89, 89);
+  color: white;
+}
